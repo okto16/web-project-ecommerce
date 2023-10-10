@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 --------------------
 
@@ -552,3 +553,7 @@ var_dump($approve);
 $cancel = $this->veritrans->cancel($order_id);
 var_dump($cancel);
 ```
+=======
+# web-project-ecommerce
+Repository ini merupakan proyek web yang bertujuan mempermudah proses jual beli produk pertanian. Proyek ini dibangun menggunakan teknologi HTML, CSS, JavaScript, dan PHP dan dirancang untuk mempermudah dalam proses pengambilan laporan dan pemesanan produk.
+>>>>>>> 70520b6bc208344281901040a6c47d0cf5e9b2b1
